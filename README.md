@@ -3,7 +3,6 @@
 A simple real-time chat application built using Node.js, React, and WebSocket.
 
 ## Features
-
 - Real-time messaging between users using WebSocket
 - Multiple chat rooms support
 - Basic authentication for users
